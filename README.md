@@ -35,4 +35,6 @@
 
 - [eco Friendly Living Website ](https://github.com/Harshtanwar2005/Hackathon2025.git), Team Members[Harsh Tanwar](https://github.com/Harshtanwar2005/), [naman jain](https://github.com/naman082006/),[Tanish yadav](https://github.com/dezynetanish/).
 
+- [Eco Friendly Living Website](https://github.com/TanviChouhannn/eco-living.git). Team Members [Tanvi chouhan](https://github.com/TanviChouhannn), [Lakshita negi](https://github.com/lakshita-negi), [Siddhika virani](https://github.com/SIDDHIKAVIRANI), [Khyati sharma](https://github.com/khyati06sharma)
+
 
