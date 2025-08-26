@@ -6,6 +6,7 @@
 
 
 - Team_PLAYERZ = Code: https://github.com/Mehulpathak12/decole-hackathon , Live preview: https://decole-hack.onrender.com Developed by Mehul Pathak, Himanshi Jain, Mukul Bassi & Preksha Jain.
+- - Team Jatin = https://github.com/jatinacharya17/DropWise-.git , Live preview- https://jatinacharya17.github.io/DropWise-/  Devloped By Jatin Acharya , Lakshay Sharma , Abhishek Sharma , Mohit Tanwar
 
 
 ## BCA 2 Year
