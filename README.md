@@ -4,6 +4,10 @@
 
 - TeamSabers: https://github.com/Mohit-LXXXII/Saber-Hackathon.git : Design By: Mohit Sharma, Harsh Sharma, Ashish Sing Rawat, Mehar Sharma 
 
+- [TeamGreen] : (https://github.com/Devesh517/Hackathon-2025.git) ; Team Members [[Priyanshu Sharma ](https://github.com/priyanshu-00007) [Harpreet Kaur](https://github.com/Harpreetkaur20) [Devesh Dhanwani](https://github.com/Devesh517) [Akshat Gupta](https://github.com/akshatgupta-ak)]
+
+- TeamSabers: https://github.com/Mohit-LXXXII/Saber-Hackathon.git : Design By: Mohit Sharma, Harsh Sharma, Ashish Sing Rawat, Mehar Sharma 
+
 - Team_PLAYERZ = Code: https://github.com/Mehulpathak12/decole-hackathon Live preview: https://decole-hack.onrender.com
 -  
 -  Developed by [Mehul Pathak](https://github.com/Mehulpathak12), [Himanshi Jain](https://github.com/devbyhimanshi), [Mukul Bassi](https://github.com/mukul007d-cole) & [Preksha Jain](https://github.com/preksha1178)
