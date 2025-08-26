@@ -7,8 +7,7 @@
 
 - [Eco life](https://github.com/divyansh2187/ECO-LIFE.git). Team member - [Mohammad Nazim Khan](https://github.com/MohammaNazim/Eco-Life.git), [Musaib](https://github.com/Musebmew) - [Divyanshu Sargara](https://github.com/divyansh2187/ECO-LIFE.git)
 
-- [Team_PLAYERZ] (https://github.com/Mehulpathak12/decole-hackathon) , Live preview: https://decole-hack.onrender.com Developed by Mehul Pathak, Himanshi Jain, Mukul Bassi & Preksha Jain.
--  Developed by [Mehul Pathak](https://github.com/Mehulpathak12), [Himanshi Jain](https://github.com/devbyhimanshi), [Mukul Bassi](https://github.com/mukul007d-cole) & [Preksha Jain](https://github.com/preksha1178)
+- [Team_PLAYERZ] (https://github.com/Mehulpathak12/decole-hackathon) , Live preview: https://decole-hack.onrender.com Developed by [Mehul Pathak](https://github.com/Mehulpathak12), [Himanshi Jain](https://github.com/devbyhimanshi), [Mukul Bassi](https://github.com/mukul007d-cole) & [Preksha Jain](https://github.com/preksha1178)
 
 - [TeamGreen] : (https://github.com/Devesh517/Hackathon-2025.git) ; Team Members [[Priyanshu Sharma ](https://github.com/priyanshu-00007) [Harpreet Kaur](https://github.com/Harpreetkaur20) [Devesh Dhanwani](https://github.com/Devesh517) [Akshat Gupta](https://github.com/akshatgupta-ak)]
 
@@ -24,4 +23,6 @@
 - [Eco Friendly Living Website](https://github.com/Harshita-jangid/Hackathon-Project.git). Team Members [Radhika Gahlot](https://github.com/RadhikaGahlot24), [Harshita Jangid](https://github.com/Harshita-jangid), [Harshita Verma](https://github.com/Harshitaverma21), [Madhav Bharadwaj](https://github.com/Madhav-Bharadwaj23)
 
 - [Eco Friendly Living Website](https://github.com/preetichablani/green-living-portal.git). Team Members [Preeti Chablani](https://github.com/preetichablani), [Manas Suryavanshi](https://github.com/krieger-geist), [Krishna Dhalwal](https://github.com/Krishna-416/Green--living), [Chinmay Sharma](https://github.com/chinmay-sharma9090)
+
+- - [Eco-Friendly Living Website](https://github.com/srashti0709/Hackthon-Project), Developed by [Rashi Bhojwani](https://github.com/Rashi-Bhojwani), [Deekshita Mittal](https://github.com/Dikshita1824), [Srashti Shakya](https://github.com/srashti0709), [Dhruvi Khandelwal](https://github.com/Dhruvi0420)
 
