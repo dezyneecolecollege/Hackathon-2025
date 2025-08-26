@@ -3,7 +3,9 @@
 ## BCA 3 Year
 
 
-- Team_PLAYERZ = Code: https://github.com/Mehulpathak12/decole-hackathon , Live preview: https://decole-hack.onrender.com Developed by Mehul Pathak, Himanshi Jain, Mukul Bassi & Preksha Jain.
+- Team_PLAYERZ = Code: https://github.com/Mehulpathak12/decole-hackathon
+-  Live preview: https://decole-hack.onrender.com
+-   Developed by [Mehul Pathak](https://github.com/Mehulpathak12), [Himanshi Jain](https://github.com/devbyhimanshi), [Mukul Bassi](https://github.com/mukul007d-cole) & [Preksha Jain](https://github.com/preksha1178)
 
 ## BCA 2 Year
 
