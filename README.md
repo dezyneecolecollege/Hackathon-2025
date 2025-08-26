@@ -12,6 +12,8 @@
 -  
 -  Developed by [Mehul Pathak](https://github.com/Mehulpathak12), [Himanshi Jain](https://github.com/devbyhimanshi), [Mukul Bassi](https://github.com/mukul007d-cole) & [Preksha Jain](https://github.com/preksha1178)
 
+-  water Conservation system (https://github.com/Shahnawaz-Khan09/water-conservation) Team Members-[Shahnawaj khan, Avesh Khan, Danish Khan ], (https://github.com/Shahnawaz-Khan09/)
+
 - [divyanshu Sargara]-[https://github.com/divyansh2187/ECO-LIFE.git]-[Mohammad Nazim Khan]-[https://github.com/MohammaNazim/Eco-Life.git]-[Musaib]-[https://github.com/Musebmew]
 -   dropwise (https://github.com/jatinacharya17/DropWise-.git) , Live preview: https://jatinacharya17.github.io/DropWise-/ Developed by [Jatin Acharya,Lakshay Sharma,Abhishek Sharma , Mohit Tanwar] 
 
