@@ -21,6 +21,8 @@
 - [Water Conservation system](https://github.com/Shahnawaz-Khan09/water-conservation) Team Members-[Shahnawaj khan, Avesh Khan, Danish Khan ], (https://github.com/Shahnawaz-Khan09/)
 
 - [Team Palak](https://github.com/PalakSharma9375/decole-hackathon). Team Members - [Palak Sharma]( https://github.com/PalakSharma9375 ), [Kamakshi Tak](https://github.com/kamakshi1789), [Somya Chelani](https://github.com/Somya-Chelani95), [Shivam Rathore](https://github.com/shiurathore).
+
+- [Water Conservation System](https://github.com/HarshSaraswat30/water-conservation.git) - Team Members [Harsh Saraswat](https://github.com/HarshSaraswat30), [Sitanshu Bergai](https://github.com/sudhanshuberagi), [Jayanti Lal Baghrecha](https://github.com/Jayanti01)
   
 ## BCA 2 Year
 
