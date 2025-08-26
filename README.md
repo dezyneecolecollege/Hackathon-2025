@@ -4,7 +4,9 @@
 
 - TeamSabers: https://github.com/Mohit-LXXXII/Saber-Hackathon.git : Design By: Mohit Sharma, Harsh Sharma, Ashish Sing Rawat, Mehar Sharma 
 
-- Team_PLAYERZ = Code: https://github.com/Mehulpathak12/decole-hackathon , Live preview: https://decole-hack.onrender.com Developed by Mehul Pathak, Himanshi Jain, Mukul Bassi & Preksha Jain.
+- Team_PLAYERZ = Code: https://github.com/Mehulpathak12/decole-hackathon
+-  Live preview: https://decole-hack.onrender.com
+-   Developed by [Mehul Pathak](https://github.com/Mehulpathak12), [Himanshi Jain](https://github.com/devbyhimanshi), [Mukul Bassi](https://github.com/mukul007d-cole) & [Preksha Jain](https://github.com/preksha1178)
 
 - [divyanshu Sargara]-[https://github.com/divyansh2187/ECO-LIFE.git]-[Mohammad Nazim Khan]-[https://github.com/MohammaNazim/Eco-Life.git]-[Musaib]-[https://github.com/Musebmew]
 
