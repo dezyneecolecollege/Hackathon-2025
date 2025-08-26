@@ -6,21 +6,21 @@
 
 - [Eco life](https://github.com/divyansh2187/ECO-LIFE.git). Team member - [Mohammad Nazim Khan](https://github.com/MohammaNazim/Eco-Life.git), [Musaib](https://github.com/Musebmew) - [Divyanshu Sargara](https://github.com/divyansh2187/ECO-LIFE.git)
 
-- [Water Conservation System] (https://github.com/Mehulpathak12/decole-hackathon) , Live preview: https://decole-hack.onrender.com Developed by Mehul Pathak, Himanshi Jain, Mukul Bassi & Preksha Jain. Developed by [Mehul Pathak](https://github.com/Mehulpathak12), [Himanshi Jain](https://github.com/devbyhimanshi), [Mukul Bassi](https://github.com/mukul007d-cole) & [Preksha Jain](https://github.com/preksha1178)
+- [Water Conservation System](https://github.com/Mehulpathak12/decole-hackathon) , [Live preview](https://decole-hack.onrender.com) Developed by Mehul Pathak, Himanshi Jain, Mukul Bassi & Preksha Jain. Developed by [Mehul Pathak](https://github.com/Mehulpathak12), [Himanshi Jain](https://github.com/devbyhimanshi), [Mukul Bassi](https://github.com/mukul007d-cole) & [Preksha Jain](https://github.com/preksha1178)
 
-- [TeamGreen] : (https://github.com/Devesh517/Hackathon-2025.git) ; Team Members [[Priyanshu Sharma ](https://github.com/priyanshu-00007) [Harpreet Kaur](https://github.com/Harpreetkaur20) [Devesh Dhanwani](https://github.com/Devesh517) [Akshat Gupta](https://github.com/akshatgupta-ak)]
+- [TeamGreen](https://github.com/Devesh517/Hackathon-2025.git) ; Team Members [[Priyanshu Sharma ](https://github.com/priyanshu-00007) [Harpreet Kaur](https://github.com/Harpreetkaur20) [Devesh Dhanwani](https://github.com/Devesh517) [Akshat Gupta](https://github.com/akshatgupta-ak)]
 
 - [EcoGuide](https://github.com/NavneetSinghRawat1/hackathon-1.git), [Ritik sharma](https://github.com/ritiksharmacodes/ritiksharmacodes), [Navneet singh rawat](https://github.com/NavneetSinghRawat1), [Aashu sharma](https://github.com/AshuSharma2030), [Neha Panwar]
 
--  dropwise (https://github.com/jatinacharya17/DropWise-.git) , Live preview: https://jatinacharya17.github.io/DropWise-/ Developed by [Jatin Acharya,Lakshay Sharma,Abhishek Sharma , Mohit Tanwar] 
+-  [dropwise](https://github.com/jatinacharya17/DropWise-.git) , Live preview: https://jatinacharya17.github.io/DropWise-/ Developed by [Jatin Acharya,Lakshay Sharma,Abhishek Sharma , Mohit Tanwar] 
 
-- [divyanshu Sargara]-[https://github.com/divyansh2187/ECO-LIFE.git]-[Mohammad Nazim Khan]-[https://github.com/MohammaNazim/Eco-Life.git]-[Musaib]-[https://github.com/Musebmew]
+- [divyanshu Sargara](https://github.com/divyansh2187/ECO-LIFE.git)-[Mohammad Nazim Khan]-[https://github.com/MohammaNazim/Eco-Life.git]-[Musaib]-[https://github.com/Musebmew]
 
-- Team_Usha = Code: https://drive.google.com/file/d/1nc9TNwAxFgwdcQPdN7-7Cgj-tHMB7BGG/view?usp=drive_link , Developed by [Usha Assudani](https://github.com/UshaAssudani), [Harshita Harwani](https://github.com/harshitatech25)[Minal Sharma](https://github.com/minal-sharma92)
+- [Team_Usha](https://drive.google.com/file/d/1nc9TNwAxFgwdcQPdN7-7Cgj-tHMB7BGG/view?usp=drive_link) , Developed by [Usha Assudani](https://github.com/UshaAssudani), [Harshita Harwani](https://github.com/harshitatech25)[Minal Sharma](https://github.com/minal-sharma92)
 
-  water Conservation system (https://github.com/Shahnawaz-Khan09/water-conservation) Team Members-[Shahnawaj khan, Avesh Khan, Danish Khan ], (https://github.com/Shahnawaz-Khan09/)
+- [Water Conservation system](https://github.com/Shahnawaz-Khan09/water-conservation) Team Members-[Shahnawaj khan, Avesh Khan, Danish Khan ], (https://github.com/Shahnawaz-Khan09/)
 
-- [Team Palak ] (https://github.com/PalakSharma9375/decole-hackathon). Team Members - [ Palak Sharma ( https://github.com/PalakSharma9375 ), Kamakshi Tak(https://github.com/kamakshi1789), Somya Chelani(https://github.com/Somya-Chelani95), Shivam Rathore(https://github.com/shiurathore)].
+- [Team Palak](https://github.com/PalakSharma9375/decole-hackathon). Team Members - [Palak Sharma]( https://github.com/PalakSharma9375 ), [Kamakshi Tak](https://github.com/kamakshi1789), [Somya Chelani](https://github.com/Somya-Chelani95), [Shivam Rathore](https://github.com/shiurathore).
   
 ## BCA 2 Year
 
